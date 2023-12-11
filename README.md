@@ -8,7 +8,7 @@ a PERN app with Supabase
 
 ## Set up
 
-##using WSL:
+## using WSL:
 
 cd and open into your clone of Hackworth-template dir and
 right click on create-Hackworth-app.js
@@ -38,7 +38,7 @@ to remove cdha run
 sudo rm /usr/local/bin/cdha
 ```
 
-##not using wsl:
+## not using wsl:
 
 right click on create-Hackworth-app.js
 select copy path
