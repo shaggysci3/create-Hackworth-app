@@ -579,6 +579,7 @@ yarn-error.log*
         <RouterProvider router={router} />
       );
     `).to('App.jsx')
+    shell.cd('..')  
     shell.rm('index.css')
     shell.rm('main.jsx')
     shell.ShellString(`
